@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main"
   xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
-  xmlns:xdr="http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing"
-  xmlns:x14="http://schemas.microsoft.com/office/spreadsheetml/2009/9/main"
   xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
   mc:Ignorable="x14ac xr xr2 xr3"
   xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac"
@@ -13,7 +11,7 @@
   <dimension ref="A1:D6" />
   <sheetViews>
     <sheetView tabSelected="1" zoomScale="85" zoomScaleNormal="85" workbookViewId="0">
-      <selection activeCell="E18" sqref="E18" />
+      <selection activeCell="C5" sqref="C5" />
     </sheetView>
   </sheetViews>
   <sheetFormatPr defaultColWidth="11.42578125" defaultRowHeight="15" x14ac:dyDescent="0.25" />
@@ -107,37 +105,7 @@
   </dataValidations>
   <pageMargins left="0.7" right="0.7" top="0.75" bottom="0.75" header="0.3" footer="0.3" />
   <pageSetup paperSize="9" orientation="portrait" r:id="rId1" />
-  <drawing r:id="rId2" />
-  <legacyDrawing r:id="rId3" />
-  <mc:AlternateContent xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
-    <mc:Choice Requires="x14">
-      <controls>
-        <mc:AlternateContent xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
-          <mc:Choice Requires="x14">
-            <control shapeId="1025" r:id="rId4" name="Option Button 1">
-              <controlPr defaultSize="0" autoFill="0" autoLine="0" autoPict="0">
-                <anchor moveWithCells="1">
-                  <from>
-                    <xdr:col>4</xdr:col>
-                    <xdr:colOff>333375</xdr:colOff>
-                    <xdr:row>11</xdr:row>
-                    <xdr:rowOff>19050</xdr:rowOff>
-                  </from>
-                  <to>
-                    <xdr:col>6</xdr:col>
-                    <xdr:colOff>571500</xdr:colOff>
-                    <xdr:row>12</xdr:row>
-                    <xdr:rowOff>123825</xdr:rowOff>
-                  </to>
-                </anchor>
-              </controlPr>
-            </control>
-          </mc:Choice>
-        </mc:AlternateContent>
-      </controls>
-    </mc:Choice>
-  </mc:AlternateContent>
   <tableParts count="1">
-    <tablePart r:id="rId5" />
+    <tablePart r:id="rId2" />
   </tableParts>
 </worksheet>

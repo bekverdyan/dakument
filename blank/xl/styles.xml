@@ -6,7 +6,7 @@
   xmlns:x16r2="http://schemas.microsoft.com/office/spreadsheetml/2015/02/main"
   xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision"
   xmlns:xr9="http://schemas.microsoft.com/office/spreadsheetml/2016/revision9">
-  <fonts count="29" x14ac:knownFonts="1">
+  <fonts count="28" x14ac:knownFonts="1">
     <font>
       <sz val="11" />
       <color theme="1" />
@@ -189,11 +189,6 @@
       <name val="Calibri" />
       <family val="2" />
       <scheme val="minor" />
-    </font>
-    <font>
-      <sz val="8" />
-      <name val="Segoe UI" />
-      <family val="2" />
     </font>
   </fonts>
   <fills count="29">

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ds:datastoreItem ds:itemID="{F0D1CD07-0B00-41BA-8F0A-6C1612FD57A2}"
+<ds:datastoreItem ds:itemID="{901D63DD-D3EC-46A9-897C-38E443B2E989}"
   xmlns:ds="http://schemas.openxmlformats.org/officeDocument/2006/customXml">
   <ds:schemaRefs>
-    <ds:schemaRef ds:uri="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms" />
+    <ds:schemaRef ds:uri="http://schemas.microsoft.com/office/2006/metadata/properties" />
+    <ds:schemaRef ds:uri="http://schemas.microsoft.com/office/infopath/2007/PartnerControls" />
+    <ds:schemaRef ds:uri="adf514cb-4434-4c3e-be24-17f296c4003a" />
+    <ds:schemaRef ds:uri="08cc195d-054f-48de-9f39-1de9ac381719" />
+    <ds:schemaRef ds:uri="http://schemas.microsoft.com/sharepoint/v4" />
   </ds:schemaRefs>
 </ds:datastoreItem>
