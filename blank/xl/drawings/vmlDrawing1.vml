@@ -1,0 +1,105 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel">
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout><v:shapetype id="_x0000_t201" coordsize="21600,21600" o:spt="201"
+  path="m,l,21600r21600,l21600,xe">
+  <v:stroke joinstyle="miter"/>
+  <v:path shadowok="f" o:extrusionok="f" strokeok="f" fillok="f" o:connecttype="rect"/>
+  <o:lock v:ext="edit" shapetype="t"/>
+ </v:shapetype><v:shape id="_x0000_s1025" type="#_x0000_t201" alt="B18-1"
+  style='position:absolute;margin-left:535.5pt;margin-top:229.5pt;width:141pt;
+  height:18pt;z-index:1;mso-wrap-style:tight' filled="f" fillcolor="window [65]"
+  stroked="f" strokecolor="windowText [64]" o:insetmode="auto">
+  <v:path shadowok="t" strokeok="t" fillok="t"/>
+  <o:lock v:ext="edit" rotation="t"/>
+  <v:textbox style='mso-direction-alt:auto' o:singleclick="f">
+   <div style='text-align:left'><font face="Segoe UI" size="160" color="#000000">B18-1</font></div>
+  </v:textbox>
+  <x:ClientData ObjectType="Radio">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    2, 284, 15, 0, 3, 187, 16, 4</x:Anchor>
+   <x:AutoFill>False</x:AutoFill>
+   <x:AutoLine>False</x:AutoLine>
+   <x:TextVAlign>Center</x:TextVAlign>
+   <x:FmlaLink>$B18</x:FmlaLink>
+   <x:NoThreeD/>
+   <x:FirstButton/>
+  </x:ClientData>
+ </v:shape><v:shape id="_x0000_s1026" type="#_x0000_t201" style='position:absolute;
+  margin-left:535.5pt;margin-top:258.75pt;width:142.5pt;height:17.25pt;
+  z-index:2;mso-wrap-style:tight' filled="f" fillcolor="window [65]" stroked="f"
+  strokecolor="windowText [64]" o:insetmode="auto">
+  <v:path shadowok="t" strokeok="t" fillok="t"/>
+  <o:lock v:ext="edit" rotation="t"/>
+  <v:textbox style='mso-direction-alt:auto' o:singleclick="f">
+   <div style='text-align:left'><font face="Segoe UI" size="160" color="#000000">B18-2</font></div>
+  </v:textbox>
+  <x:ClientData ObjectType="Radio">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    2, 284, 16, 19, 3, 189, 18, 2</x:Anchor>
+   <x:AutoFill>False</x:AutoFill>
+   <x:AutoLine>False</x:AutoLine>
+   <x:TextVAlign>Center</x:TextVAlign>
+   <x:NoThreeD/>
+  </x:ClientData>
+ </v:shape><v:shape id="_x0000_s1027" type="#_x0000_t201" style='position:absolute;
+  margin-left:536.25pt;margin-top:288.75pt;width:2in;height:17.25pt;z-index:3;
+  mso-wrap-style:tight' filled="f" fillcolor="window [65]" stroked="f"
+  strokecolor="windowText [64]" o:insetmode="auto">
+  <v:path shadowok="t" strokeok="t" fillok="t"/>
+  <o:lock v:ext="edit" rotation="t"/>
+  <v:textbox style='mso-direction-alt:auto' o:singleclick="f">
+   <div style='text-align:left'><font face="Segoe UI" size="160" color="#000000">B18-3</font></div>
+  </v:textbox>
+  <x:ClientData ObjectType="Radio">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    3, 0, 18, 19, 3, 192, 20, 2</x:Anchor>
+   <x:AutoFill>False</x:AutoFill>
+   <x:AutoLine>False</x:AutoLine>
+   <x:TextVAlign>Center</x:TextVAlign>
+   <x:NoThreeD/>
+  </x:ClientData>
+ </v:shape><v:shape id="_x0000_s1028" type="#_x0000_t201" alt="IS-B25" style='position:absolute;
+  margin-left:535.5pt;margin-top:363.75pt;width:156pt;height:17.25pt;z-index:4;
+  mso-wrap-style:tight' filled="f" fillcolor="window [65]" stroked="f"
+  strokecolor="windowText [64]" o:insetmode="auto">
+  <v:path shadowok="t" strokeok="t" fillok="t"/>
+  <o:lock v:ext="edit" rotation="t"/>
+  <v:textbox style='mso-direction-alt:auto' o:singleclick="f">
+   <div style='text-align:left'><font face="Segoe UI" size="160" color="auto">IS-B25</font></div>
+  </v:textbox>
+  <x:ClientData ObjectType="Checkbox">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    2, 284, 23, 19, 3, 207, 25, 2</x:Anchor>
+   <x:AutoFill>False</x:AutoFill>
+   <x:AutoLine>False</x:AutoLine>
+   <x:TextVAlign>Center</x:TextVAlign>
+   <x:FmlaLink>$B25</x:FmlaLink>
+   <x:NoThreeD/>
+  </x:ClientData>
+ </v:shape><v:shape id="_x0000_s1029" type="#_x0000_t201" alt="IS-B27" style='position:absolute;
+  margin-left:536.25pt;margin-top:394.5pt;width:156pt;height:18pt;z-index:5;
+  mso-wrap-style:tight' filled="f" fillcolor="window [65]" stroked="f"
+  strokecolor="windowText [64]" o:insetmode="auto">
+  <v:path shadowok="t" strokeok="t" fillok="t"/>
+  <o:lock v:ext="edit" rotation="t"/>
+  <v:textbox style='mso-direction-alt:auto' o:singleclick="f">
+   <div style='text-align:left'><font face="Segoe UI" size="160" color="auto">IS-B27</font></div>
+  </v:textbox>
+  <x:ClientData ObjectType="Checkbox">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    3, 0, 26, 0, 4, 0, 27, 4</x:Anchor>
+   <x:AutoFill>False</x:AutoFill>
+   <x:AutoLine>False</x:AutoLine>
+   <x:TextVAlign>Center</x:TextVAlign>
+   <x:FmlaLink>$B27</x:FmlaLink>
+   <x:NoThreeD/>
+  </x:ClientData>
+ </v:shape></xml>
