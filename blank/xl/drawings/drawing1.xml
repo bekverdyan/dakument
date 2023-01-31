@@ -1,2 +1,434 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<xdr:wsDr xmlns:xdr="http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"><mc:AlternateContent xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"><mc:Choice xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" Requires="a14"><xdr:twoCellAnchor><xdr:from><xdr:col>2</xdr:col><xdr:colOff>2705100</xdr:colOff><xdr:row>15</xdr:row><xdr:rowOff>0</xdr:rowOff></xdr:from><xdr:to><xdr:col>3</xdr:col><xdr:colOff>1828800</xdr:colOff><xdr:row>20</xdr:row><xdr:rowOff>19050</xdr:rowOff></xdr:to><xdr:grpSp><xdr:nvGrpSpPr><xdr:cNvPr id="2" name="Group 1"><a:extLst><a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}"><a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{00000000-0008-0000-0000-000002000000}"/></a:ext></a:extLst></xdr:cNvPr><xdr:cNvGrpSpPr/></xdr:nvGrpSpPr><xdr:grpSpPr><a:xfrm><a:off x="6795247" y="2924735"/><a:ext cx="1835524" cy="971550"/><a:chOff x="6795247" y="2924735"/><a:chExt cx="1835524" cy="971550"/></a:xfrm></xdr:grpSpPr><xdr:sp macro="" textlink=""><xdr:nvSpPr><xdr:cNvPr id="1025" name="Option Button 1" descr="B18-1" hidden="1"><a:extLst><a:ext uri="{63B3BB69-23CF-44E3-9099-C40C66FF867C}"><a14:compatExt spid="_x0000_s1025"/></a:ext><a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}"><a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{00000000-0008-0000-0000-000001040000}"/></a:ext></a:extLst></xdr:cNvPr><xdr:cNvSpPr/></xdr:nvSpPr><xdr:spPr bwMode="auto"><a:xfrm><a:off x="6795247" y="2924735"/><a:ext cx="1787899" cy="228600"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln><a:extLst><a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}"><a14:hiddenFill><a:solidFill><a:srgbClr val="FFFFFF" mc:Ignorable="a14" a14:legacySpreadsheetColorIndex="65"/></a:solidFill></a14:hiddenFill></a:ext><a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}"><a14:hiddenLine w="9525"><a:solidFill><a:srgbClr val="000000" mc:Ignorable="a14" a14:legacySpreadsheetColorIndex="64"/></a:solidFill><a:miter lim="800000"/><a:headEnd/><a:tailEnd/></a14:hiddenLine></a:ext></a:extLst></xdr:spPr><xdr:txBody><a:bodyPr vertOverflow="clip" wrap="square" lIns="27432" tIns="18288" rIns="0" bIns="18288" anchor="ctr" upright="1"/><a:lstStyle/><a:p><a:pPr algn="l" rtl="0"><a:defRPr sz="1000"/></a:pPr><a:r><a:rPr lang="en-US" sz="800" b="0" i="0" u="none" strike="noStrike" baseline="0"><a:solidFill><a:srgbClr val="000000"/></a:solidFill><a:latin typeface="Segoe UI"/><a:cs typeface="Segoe UI"/></a:rPr><a:t>B18-1</a:t></a:r></a:p></xdr:txBody></xdr:sp><xdr:sp macro="" textlink=""><xdr:nvSpPr><xdr:cNvPr id="1026" name="Option Button 2" hidden="1"><a:extLst><a:ext uri="{63B3BB69-23CF-44E3-9099-C40C66FF867C}"><a14:compatExt spid="_x0000_s1026"/></a:ext><a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}"><a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{00000000-0008-0000-0000-000002040000}"/></a:ext></a:extLst></xdr:cNvPr><xdr:cNvSpPr/></xdr:nvSpPr><xdr:spPr bwMode="auto"><a:xfrm><a:off x="6795247" y="3296210"/><a:ext cx="1806949" cy="219075"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln><a:extLst><a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}"><a14:hiddenFill><a:solidFill><a:srgbClr val="FFFFFF" mc:Ignorable="a14" a14:legacySpreadsheetColorIndex="65"/></a:solidFill></a14:hiddenFill></a:ext><a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}"><a14:hiddenLine w="9525"><a:solidFill><a:srgbClr val="000000" mc:Ignorable="a14" a14:legacySpreadsheetColorIndex="64"/></a:solidFill><a:miter lim="800000"/><a:headEnd/><a:tailEnd/></a14:hiddenLine></a:ext></a:extLst></xdr:spPr><xdr:txBody><a:bodyPr vertOverflow="clip" wrap="square" lIns="27432" tIns="18288" rIns="0" bIns="18288" anchor="ctr" upright="1"/><a:lstStyle/><a:p><a:pPr algn="l" rtl="0"><a:defRPr sz="1000"/></a:pPr><a:r><a:rPr lang="en-US" sz="800" b="0" i="0" u="none" strike="noStrike" baseline="0"><a:solidFill><a:srgbClr val="000000"/></a:solidFill><a:latin typeface="Segoe UI"/><a:cs typeface="Segoe UI"/></a:rPr><a:t>B18-2</a:t></a:r></a:p></xdr:txBody></xdr:sp><xdr:sp macro="" textlink=""><xdr:nvSpPr><xdr:cNvPr id="1027" name="Option Button 3" hidden="1"><a:extLst><a:ext uri="{63B3BB69-23CF-44E3-9099-C40C66FF867C}"><a14:compatExt spid="_x0000_s1027"/></a:ext><a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}"><a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{00000000-0008-0000-0000-000003040000}"/></a:ext></a:extLst></xdr:cNvPr><xdr:cNvSpPr/></xdr:nvSpPr><xdr:spPr bwMode="auto"><a:xfrm><a:off x="6801971" y="3677210"/><a:ext cx="1828800" cy="219075"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln><a:extLst><a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}"><a14:hiddenFill><a:solidFill><a:srgbClr val="FFFFFF" mc:Ignorable="a14" a14:legacySpreadsheetColorIndex="65"/></a:solidFill></a14:hiddenFill></a:ext><a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}"><a14:hiddenLine w="9525"><a:solidFill><a:srgbClr val="000000" mc:Ignorable="a14" a14:legacySpreadsheetColorIndex="64"/></a:solidFill><a:miter lim="800000"/><a:headEnd/><a:tailEnd/></a14:hiddenLine></a:ext></a:extLst></xdr:spPr><xdr:txBody><a:bodyPr vertOverflow="clip" wrap="square" lIns="27432" tIns="18288" rIns="0" bIns="18288" anchor="ctr" upright="1"/><a:lstStyle/><a:p><a:pPr algn="l" rtl="0"><a:defRPr sz="1000"/></a:pPr><a:r><a:rPr lang="en-US" sz="800" b="0" i="0" u="none" strike="noStrike" baseline="0"><a:solidFill><a:srgbClr val="000000"/></a:solidFill><a:latin typeface="Segoe UI"/><a:cs typeface="Segoe UI"/></a:rPr><a:t>B18-3</a:t></a:r></a:p></xdr:txBody></xdr:sp></xdr:grpSp><xdr:clientData/></xdr:twoCellAnchor></mc:Choice><mc:Fallback/></mc:AlternateContent><mc:AlternateContent xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"><mc:Choice xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" Requires="a14"><xdr:twoCellAnchor editAs="oneCell"><xdr:from><xdr:col>2</xdr:col><xdr:colOff>2705100</xdr:colOff><xdr:row>23</xdr:row><xdr:rowOff>180975</xdr:rowOff></xdr:from><xdr:to><xdr:col>3</xdr:col><xdr:colOff>1971675</xdr:colOff><xdr:row>25</xdr:row><xdr:rowOff>19050</xdr:rowOff></xdr:to><xdr:sp macro="" textlink=""><xdr:nvSpPr><xdr:cNvPr id="1028" name="Check Box 4" hidden="1"><a:extLst><a:ext uri="{63B3BB69-23CF-44E3-9099-C40C66FF867C}"><a14:compatExt spid="_x0000_s1028"/></a:ext><a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}"><a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{00000000-0008-0000-0000-000004040000}"/></a:ext></a:extLst></xdr:cNvPr><xdr:cNvSpPr/></xdr:nvSpPr><xdr:spPr bwMode="auto"><a:xfrm><a:off x="0" y="0"/><a:ext cx="0" cy="0"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln><a:extLst><a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}"><a14:hiddenFill><a:solidFill><a:srgbClr val="FFFFFF" mc:Ignorable="a14" a14:legacySpreadsheetColorIndex="65"/></a:solidFill></a14:hiddenFill></a:ext><a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}"><a14:hiddenLine w="9525"><a:solidFill><a:srgbClr val="000000" mc:Ignorable="a14" a14:legacySpreadsheetColorIndex="64"/></a:solidFill><a:miter lim="800000"/><a:headEnd/><a:tailEnd/></a14:hiddenLine></a:ext></a:extLst></xdr:spPr><xdr:txBody><a:bodyPr vertOverflow="clip" wrap="square" lIns="27432" tIns="18288" rIns="0" bIns="18288" anchor="ctr" upright="1"/><a:lstStyle/><a:p><a:pPr algn="l" rtl="0"><a:defRPr sz="1000"/></a:pPr><a:r><a:rPr lang="en-US" sz="800" b="0" i="0" u="none" strike="noStrike" baseline="0"><a:solidFill><a:srgbClr val="000000"/></a:solidFill><a:latin typeface="Segoe UI"/><a:cs typeface="Segoe UI"/></a:rPr><a:t>IS-B25</a:t></a:r></a:p></xdr:txBody></xdr:sp><xdr:clientData/></xdr:twoCellAnchor></mc:Choice><mc:Fallback/></mc:AlternateContent><mc:AlternateContent xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"><mc:Choice xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" Requires="a14"><xdr:twoCellAnchor editAs="oneCell"><xdr:from><xdr:col>3</xdr:col><xdr:colOff>0</xdr:colOff><xdr:row>26</xdr:row><xdr:rowOff>0</xdr:rowOff></xdr:from><xdr:to><xdr:col>4</xdr:col><xdr:colOff>0</xdr:colOff><xdr:row>27</xdr:row><xdr:rowOff>38100</xdr:rowOff></xdr:to><xdr:sp macro="" textlink=""><xdr:nvSpPr><xdr:cNvPr id="1029" name="Check Box 5" hidden="1"><a:extLst><a:ext uri="{63B3BB69-23CF-44E3-9099-C40C66FF867C}"><a14:compatExt spid="_x0000_s1029"/></a:ext><a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}"><a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{00000000-0008-0000-0000-000005040000}"/></a:ext></a:extLst></xdr:cNvPr><xdr:cNvSpPr/></xdr:nvSpPr><xdr:spPr bwMode="auto"><a:xfrm><a:off x="0" y="0"/><a:ext cx="0" cy="0"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/><a:ln><a:noFill/></a:ln><a:extLst><a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}"><a14:hiddenFill><a:solidFill><a:srgbClr val="FFFFFF" mc:Ignorable="a14" a14:legacySpreadsheetColorIndex="65"/></a:solidFill></a14:hiddenFill></a:ext><a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}"><a14:hiddenLine w="9525"><a:solidFill><a:srgbClr val="000000" mc:Ignorable="a14" a14:legacySpreadsheetColorIndex="64"/></a:solidFill><a:miter lim="800000"/><a:headEnd/><a:tailEnd/></a14:hiddenLine></a:ext></a:extLst></xdr:spPr><xdr:txBody><a:bodyPr vertOverflow="clip" wrap="square" lIns="27432" tIns="18288" rIns="0" bIns="18288" anchor="ctr" upright="1"/><a:lstStyle/><a:p><a:pPr algn="l" rtl="0"><a:defRPr sz="1000"/></a:pPr><a:r><a:rPr lang="en-US" sz="800" b="0" i="0" u="none" strike="noStrike" baseline="0"><a:solidFill><a:srgbClr val="000000"/></a:solidFill><a:latin typeface="Segoe UI"/><a:cs typeface="Segoe UI"/></a:rPr><a:t>IS-B27</a:t></a:r></a:p></xdr:txBody></xdr:sp><xdr:clientData/></xdr:twoCellAnchor></mc:Choice><mc:Fallback/></mc:AlternateContent></xdr:wsDr>
+<xdr:wsDr xmlns:xdr="http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing"
+  xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+  <mc:AlternateContent xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
+    <mc:Choice xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" Requires="a14">
+      <xdr:twoCellAnchor>
+        <xdr:from>
+          <xdr:col>2</xdr:col>
+          <xdr:colOff>2705100</xdr:colOff>
+          <xdr:row>15</xdr:row>
+          <xdr:rowOff>0</xdr:rowOff>
+        </xdr:from>
+        <xdr:to>
+          <xdr:col>3</xdr:col>
+          <xdr:colOff>1828800</xdr:colOff>
+          <xdr:row>20</xdr:row>
+          <xdr:rowOff>19050</xdr:rowOff>
+        </xdr:to>
+        <xdr:grpSp>
+          <xdr:nvGrpSpPr>
+            <xdr:cNvPr id="2" name="Group 1">
+              <a:extLst>
+                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                  <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                    id="{00000000-0008-0000-0000-000002000000}" />
+                </a:ext>
+              </a:extLst>
+            </xdr:cNvPr>
+            <xdr:cNvGrpSpPr />
+          </xdr:nvGrpSpPr>
+          <xdr:grpSpPr>
+            <a:xfrm>
+              <a:off x="6795247" y="2924735" />
+              <a:ext cx="1835524" cy="971550" />
+              <a:chOff x="6795247" y="2924735" />
+              <a:chExt cx="1835524" cy="971550" />
+            </a:xfrm>
+          </xdr:grpSpPr>
+          <xdr:sp macro="" textlink="">
+            <xdr:nvSpPr>
+              <xdr:cNvPr id="1025" name="Option Button 1" descr="B18-1" hidden="1">
+                <a:extLst>
+                  <a:ext uri="{63B3BB69-23CF-44E3-9099-C40C66FF867C}">
+                    <a14:compatExt spid="_x0000_s1025" />
+                  </a:ext>
+                  <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                    <a16:creationId
+                      xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                      id="{00000000-0008-0000-0000-000001040000}" />
+                  </a:ext>
+                </a:extLst>
+              </xdr:cNvPr>
+              <xdr:cNvSpPr />
+            </xdr:nvSpPr>
+            <xdr:spPr bwMode="auto">
+              <a:xfrm>
+                <a:off x="6795247" y="2924735" />
+                <a:ext cx="1787899" cy="228600" />
+              </a:xfrm>
+              <a:prstGeom prst="rect">
+                <a:avLst />
+              </a:prstGeom>
+              <a:noFill />
+              <a:ln>
+                <a:noFill />
+              </a:ln>
+              <a:extLst>
+                <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                  <a14:hiddenFill>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF" mc:Ignorable="a14"
+                        a14:legacySpreadsheetColorIndex="65" />
+                    </a:solidFill>
+                  </a14:hiddenFill>
+                </a:ext>
+                <a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}">
+                  <a14:hiddenLine w="9525">
+                    <a:solidFill>
+                      <a:srgbClr val="000000" mc:Ignorable="a14"
+                        a14:legacySpreadsheetColorIndex="64" />
+                    </a:solidFill>
+                    <a:miter lim="800000" />
+                    <a:headEnd />
+                    <a:tailEnd />
+                  </a14:hiddenLine>
+                </a:ext>
+              </a:extLst>
+            </xdr:spPr>
+            <xdr:txBody>
+              <a:bodyPr vertOverflow="clip" wrap="square" lIns="27432" tIns="18288" rIns="0"
+                bIns="18288" anchor="ctr" upright="1" />
+              <a:lstStyle />
+              <a:p>
+                <a:pPr algn="l" rtl="0">
+                  <a:defRPr sz="1000" />
+                </a:pPr>
+                <a:r>
+                  <a:rPr lang="en-US" sz="800" b="0" i="0" u="none" strike="noStrike" baseline="0">
+                    <a:solidFill>
+                      <a:srgbClr val="000000" />
+                    </a:solidFill>
+                    <a:latin typeface="Segoe UI" />
+                    <a:cs typeface="Segoe UI" />
+                  </a:rPr>
+                  <a:t>B18-1</a:t>
+                </a:r>
+              </a:p>
+            </xdr:txBody>
+          </xdr:sp>
+          <xdr:sp macro="" textlink="">
+            <xdr:nvSpPr>
+              <xdr:cNvPr id="1026" name="Option Button 2" hidden="1">
+                <a:extLst>
+                  <a:ext uri="{63B3BB69-23CF-44E3-9099-C40C66FF867C}">
+                    <a14:compatExt spid="_x0000_s1026" />
+                  </a:ext>
+                  <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                    <a16:creationId
+                      xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                      id="{00000000-0008-0000-0000-000002040000}" />
+                  </a:ext>
+                </a:extLst>
+              </xdr:cNvPr>
+              <xdr:cNvSpPr />
+            </xdr:nvSpPr>
+            <xdr:spPr bwMode="auto">
+              <a:xfrm>
+                <a:off x="6795247" y="3296210" />
+                <a:ext cx="1806949" cy="219075" />
+              </a:xfrm>
+              <a:prstGeom prst="rect">
+                <a:avLst />
+              </a:prstGeom>
+              <a:noFill />
+              <a:ln>
+                <a:noFill />
+              </a:ln>
+              <a:extLst>
+                <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                  <a14:hiddenFill>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF" mc:Ignorable="a14"
+                        a14:legacySpreadsheetColorIndex="65" />
+                    </a:solidFill>
+                  </a14:hiddenFill>
+                </a:ext>
+                <a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}">
+                  <a14:hiddenLine w="9525">
+                    <a:solidFill>
+                      <a:srgbClr val="000000" mc:Ignorable="a14"
+                        a14:legacySpreadsheetColorIndex="64" />
+                    </a:solidFill>
+                    <a:miter lim="800000" />
+                    <a:headEnd />
+                    <a:tailEnd />
+                  </a14:hiddenLine>
+                </a:ext>
+              </a:extLst>
+            </xdr:spPr>
+            <xdr:txBody>
+              <a:bodyPr vertOverflow="clip" wrap="square" lIns="27432" tIns="18288" rIns="0"
+                bIns="18288" anchor="ctr" upright="1" />
+              <a:lstStyle />
+              <a:p>
+                <a:pPr algn="l" rtl="0">
+                  <a:defRPr sz="1000" />
+                </a:pPr>
+                <a:r>
+                  <a:rPr lang="en-US" sz="800" b="0" i="0" u="none" strike="noStrike" baseline="0">
+                    <a:solidFill>
+                      <a:srgbClr val="000000" />
+                    </a:solidFill>
+                    <a:latin typeface="Segoe UI" />
+                    <a:cs typeface="Segoe UI" />
+                  </a:rPr>
+                  <a:t>B18-2</a:t>
+                </a:r>
+              </a:p>
+            </xdr:txBody>
+          </xdr:sp>
+          <xdr:sp macro="" textlink="">
+            <xdr:nvSpPr>
+              <xdr:cNvPr id="1027" name="Option Button 3" hidden="1">
+                <a:extLst>
+                  <a:ext uri="{63B3BB69-23CF-44E3-9099-C40C66FF867C}">
+                    <a14:compatExt spid="_x0000_s1027" />
+                  </a:ext>
+                  <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                    <a16:creationId
+                      xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                      id="{00000000-0008-0000-0000-000003040000}" />
+                  </a:ext>
+                </a:extLst>
+              </xdr:cNvPr>
+              <xdr:cNvSpPr />
+            </xdr:nvSpPr>
+            <xdr:spPr bwMode="auto">
+              <a:xfrm>
+                <a:off x="6801971" y="3677210" />
+                <a:ext cx="1828800" cy="219075" />
+              </a:xfrm>
+              <a:prstGeom prst="rect">
+                <a:avLst />
+              </a:prstGeom>
+              <a:noFill />
+              <a:ln>
+                <a:noFill />
+              </a:ln>
+              <a:extLst>
+                <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                  <a14:hiddenFill>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF" mc:Ignorable="a14"
+                        a14:legacySpreadsheetColorIndex="65" />
+                    </a:solidFill>
+                  </a14:hiddenFill>
+                </a:ext>
+                <a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}">
+                  <a14:hiddenLine w="9525">
+                    <a:solidFill>
+                      <a:srgbClr val="000000" mc:Ignorable="a14"
+                        a14:legacySpreadsheetColorIndex="64" />
+                    </a:solidFill>
+                    <a:miter lim="800000" />
+                    <a:headEnd />
+                    <a:tailEnd />
+                  </a14:hiddenLine>
+                </a:ext>
+              </a:extLst>
+            </xdr:spPr>
+            <xdr:txBody>
+              <a:bodyPr vertOverflow="clip" wrap="square" lIns="27432" tIns="18288" rIns="0"
+                bIns="18288" anchor="ctr" upright="1" />
+              <a:lstStyle />
+              <a:p>
+                <a:pPr algn="l" rtl="0">
+                  <a:defRPr sz="1000" />
+                </a:pPr>
+                <a:r>
+                  <a:rPr lang="en-US" sz="800" b="0" i="0" u="none" strike="noStrike" baseline="0">
+                    <a:solidFill>
+                      <a:srgbClr val="000000" />
+                    </a:solidFill>
+                    <a:latin typeface="Segoe UI" />
+                    <a:cs typeface="Segoe UI" />
+                  </a:rPr>
+                  <a:t>B18-3</a:t>
+                </a:r>
+              </a:p>
+            </xdr:txBody>
+          </xdr:sp>
+        </xdr:grpSp>
+        <xdr:clientData />
+      </xdr:twoCellAnchor>
+    </mc:Choice>
+    <mc:Fallback />
+  </mc:AlternateContent>
+  <mc:AlternateContent xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
+    <mc:Choice xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" Requires="a14">
+      <xdr:twoCellAnchor editAs="oneCell">
+        <xdr:from>
+          <xdr:col>2</xdr:col>
+          <xdr:colOff>2705100</xdr:colOff>
+          <xdr:row>23</xdr:row>
+          <xdr:rowOff>180975</xdr:rowOff>
+        </xdr:from>
+        <xdr:to>
+          <xdr:col>3</xdr:col>
+          <xdr:colOff>1971675</xdr:colOff>
+          <xdr:row>25</xdr:row>
+          <xdr:rowOff>19050</xdr:rowOff>
+        </xdr:to>
+        <xdr:sp macro="" textlink="">
+          <xdr:nvSpPr>
+            <xdr:cNvPr id="1028" name="Check Box 4" hidden="1">
+              <a:extLst>
+                <a:ext uri="{63B3BB69-23CF-44E3-9099-C40C66FF867C}">
+                  <a14:compatExt spid="_x0000_s1028" />
+                </a:ext>
+                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                  <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                    id="{00000000-0008-0000-0000-000004040000}" />
+                </a:ext>
+              </a:extLst>
+            </xdr:cNvPr>
+            <xdr:cNvSpPr />
+          </xdr:nvSpPr>
+          <xdr:spPr bwMode="auto">
+            <a:xfrm>
+              <a:off x="0" y="0" />
+              <a:ext cx="0" cy="0" />
+            </a:xfrm>
+            <a:prstGeom prst="rect">
+              <a:avLst />
+            </a:prstGeom>
+            <a:noFill />
+            <a:ln>
+              <a:noFill />
+            </a:ln>
+            <a:extLst>
+              <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                <a14:hiddenFill>
+                  <a:solidFill>
+                    <a:srgbClr val="FFFFFF" mc:Ignorable="a14" a14:legacySpreadsheetColorIndex="65" />
+                  </a:solidFill>
+                </a14:hiddenFill>
+              </a:ext>
+              <a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}">
+                <a14:hiddenLine w="9525">
+                  <a:solidFill>
+                    <a:srgbClr val="000000" mc:Ignorable="a14" a14:legacySpreadsheetColorIndex="64" />
+                  </a:solidFill>
+                  <a:miter lim="800000" />
+                  <a:headEnd />
+                  <a:tailEnd />
+                </a14:hiddenLine>
+              </a:ext>
+            </a:extLst>
+          </xdr:spPr>
+          <xdr:txBody>
+            <a:bodyPr vertOverflow="clip" wrap="square" lIns="27432" tIns="18288" rIns="0"
+              bIns="18288" anchor="ctr" upright="1" />
+            <a:lstStyle />
+            <a:p>
+              <a:pPr algn="l" rtl="0">
+                <a:defRPr sz="1000" />
+              </a:pPr>
+              <a:r>
+                <a:rPr lang="en-US" sz="800" b="0" i="0" u="none" strike="noStrike" baseline="0">
+                  <a:solidFill>
+                    <a:srgbClr val="000000" />
+                  </a:solidFill>
+                  <a:latin typeface="Segoe UI" />
+                  <a:cs typeface="Segoe UI" />
+                </a:rPr>
+                <a:t>IS-B25</a:t>
+              </a:r>
+            </a:p>
+          </xdr:txBody>
+        </xdr:sp>
+        <xdr:clientData />
+      </xdr:twoCellAnchor>
+    </mc:Choice>
+    <mc:Fallback />
+  </mc:AlternateContent>
+  <mc:AlternateContent xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
+    <mc:Choice xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" Requires="a14">
+      <xdr:twoCellAnchor editAs="oneCell">
+        <xdr:from>
+          <xdr:col>3</xdr:col>
+          <xdr:colOff>0</xdr:colOff>
+          <xdr:row>26</xdr:row>
+          <xdr:rowOff>0</xdr:rowOff>
+        </xdr:from>
+        <xdr:to>
+          <xdr:col>4</xdr:col>
+          <xdr:colOff>0</xdr:colOff>
+          <xdr:row>27</xdr:row>
+          <xdr:rowOff>38100</xdr:rowOff>
+        </xdr:to>
+        <xdr:sp macro="" textlink="">
+          <xdr:nvSpPr>
+            <xdr:cNvPr id="1029" name="Check Box 5" hidden="1">
+              <a:extLst>
+                <a:ext uri="{63B3BB69-23CF-44E3-9099-C40C66FF867C}">
+                  <a14:compatExt spid="_x0000_s1029" />
+                </a:ext>
+                <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                  <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main"
+                    id="{00000000-0008-0000-0000-000005040000}" />
+                </a:ext>
+              </a:extLst>
+            </xdr:cNvPr>
+            <xdr:cNvSpPr />
+          </xdr:nvSpPr>
+          <xdr:spPr bwMode="auto">
+            <a:xfrm>
+              <a:off x="0" y="0" />
+              <a:ext cx="0" cy="0" />
+            </a:xfrm>
+            <a:prstGeom prst="rect">
+              <a:avLst />
+            </a:prstGeom>
+            <a:noFill />
+            <a:ln>
+              <a:noFill />
+            </a:ln>
+            <a:extLst>
+              <a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+                <a14:hiddenFill>
+                  <a:solidFill>
+                    <a:srgbClr val="FFFFFF" mc:Ignorable="a14" a14:legacySpreadsheetColorIndex="65" />
+                  </a:solidFill>
+                </a14:hiddenFill>
+              </a:ext>
+              <a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}">
+                <a14:hiddenLine w="9525">
+                  <a:solidFill>
+                    <a:srgbClr val="000000" mc:Ignorable="a14" a14:legacySpreadsheetColorIndex="64" />
+                  </a:solidFill>
+                  <a:miter lim="800000" />
+                  <a:headEnd />
+                  <a:tailEnd />
+                </a14:hiddenLine>
+              </a:ext>
+            </a:extLst>
+          </xdr:spPr>
+          <xdr:txBody>
+            <a:bodyPr vertOverflow="clip" wrap="square" lIns="27432" tIns="18288" rIns="0"
+              bIns="18288" anchor="ctr" upright="1" />
+            <a:lstStyle />
+            <a:p>
+              <a:pPr algn="l" rtl="0">
+                <a:defRPr sz="1000" />
+              </a:pPr>
+              <a:r>
+                <a:rPr lang="en-US" sz="800" b="0" i="0" u="none" strike="noStrike" baseline="0">
+                  <a:solidFill>
+                    <a:srgbClr val="000000" />
+                  </a:solidFill>
+                  <a:latin typeface="Segoe UI" />
+                  <a:cs typeface="Segoe UI" />
+                </a:rPr>
+                <a:t>IS-B27</a:t>
+              </a:r>
+            </a:p>
+          </xdr:txBody>
+        </xdr:sp>
+        <xdr:clientData />
+      </xdr:twoCellAnchor>
+    </mc:Choice>
+    <mc:Fallback />
+  </mc:AlternateContent>
+</xdr:wsDr>
